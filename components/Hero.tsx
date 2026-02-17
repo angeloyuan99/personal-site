@@ -6,7 +6,7 @@ const Hero: React.FC = () => {
       <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center gap-12 reveal">
         <div className="w-32 h-32 md:w-40 md:h-40 bg-zinc-100 border border-zinc-200 flex-shrink-0 transition-all duration-700 overflow-hidden relative group">
           <img
-            src="../images/website.jpg"
+            src="/images/website.jpg"
             alt="Angelo Yuan"
             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             onError={(e) => {

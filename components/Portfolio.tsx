@@ -28,17 +28,18 @@ const Portfolio: React.FC = () => {
       description: "Generated 80M+ views on short-form talking head content for Kalshi at a $0.4 CPM."
     },
     {
-      period: "2025 JUN - AUG",
-      brand: "Personal Brand",
-      description: "Grew a personal Instagram to 80K+ followers in 2 months, generating 20M+ views.",
-      link: "https://www.instagram.com/itz_angelo2006/"
-    },
-    {
       period: "2025 AUG - DEC",
       brand: "DeepRoyale",
       description: "Built a Clash Royale notetaking and match analysis web app that reached 2000+ active users.",
       link: "https://www.deeproyale.com/"
+    },
+    {
+      period: "2025 JUN - AUG",
+      brand: "Personal Brand",
+      description: "Grew a personal Instagram to 80K+ followers in 2 months, generating 20M+ views.",
+      link: "https://www.instagram.com/itz_angelo2006/"
     }
+
   ];
 
   return (
